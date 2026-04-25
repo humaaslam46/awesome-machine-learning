@@ -655,7 +655,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Learn JS Data](http://learnjsdata.com/)
 * [AnyChart](https://www.anychart.com/)
 * [FusionCharts](https://www.fusioncharts.com/)
-* [Nivo](https://nivo.rocks) - built on top of the awesome d3 and Reactjs libraries
+* [Nivo](https://nivo.rocks) - built on Top of the awesome d3 and Reactjs libraries
 
 
 <a name="javascript-general-purpose-machine-learning"></a>
